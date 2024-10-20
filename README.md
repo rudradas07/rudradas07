@@ -1,8 +1,41 @@
+![](https://komarev.com/ghpvc/?username=rudradas&style=flat&color=blue)
 <h1 align="center">Hi 👋, I'm Rudra Das</h1>
 <h3 align="center">A frontend developer and cyber enthusiast from Bangladesh.</h3>
 
-<image align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw3GIzV908ZU7_YTIKCX9v9e&ust=1729509491309000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD94ZLrnIkDFQAAAAAdAAAAABAd">
+<image align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw3GIzV908ZU7_YTIKCX9v9e&ust=1729509491309000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD94ZLrnIkDFQAAAAAdAAAAABAd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fritsuka-code&psig=AOvVaw3vKNoz4PrbQid14aO382uL&ust=1729510656166000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCkkbXvnIkDFQAAAAAdAAAAABAJ)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudradas07&label=Profile%20views&color=0e75b6&style=flat" alt="rudradas07" /> </p>
+
+<p> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+</p>
+<p > 
+<a href="https://www.kali.org/" target="_blank"> 
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  </a>
+
+ <a href="https://ubuntu.com/" target="_blank"> 
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  </a>
+
+ <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  </a>
+</p> 
+
 
 - 🔭 I’m currently working on **Library Management System (Web Based)**
 
